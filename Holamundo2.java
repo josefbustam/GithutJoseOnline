@@ -17,7 +17,7 @@ public class Holamundo2 {
     public static void main(String[] args) 
     {
       System.out.println("hola mundo");
-      System.out.println("Esto es la segunda prueba de control de versiones");// TODO code application logic here
+      System.out.println("Esto es la primera prueba de control de versiones");// TODO code application logic here
     }
     
 }
