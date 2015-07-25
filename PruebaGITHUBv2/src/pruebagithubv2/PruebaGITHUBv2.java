@@ -16,14 +16,14 @@ public class PruebaGITHUBv2 {
      */
     public static void main(String[] args) 
     {
-       System.out.println("hola mundo para GITHUB");
-        int area_triangulo;
-        int base = 6;
-        int altura = 3;
+       System.out.println("hola mundo para GITHUB version 2");
+        //int area_triangulo;
+        //int base = 6;
+        //int altura = 3;
       
       
-        area_triangulo = (base*altura)/2;
-        System.out.println("area de un triangulo = "+area_triangulo);
+        //area_triangulo = (base*altura)/2;
+       // System.out.println("area de un triangulo = "+area_triangulo);
     }
     }
     
