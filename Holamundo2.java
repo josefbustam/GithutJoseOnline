@@ -16,8 +16,17 @@ public class Holamundo2 {
      */
     public static void main(String[] args) 
     {
-      System.out.println("hola mundo");
-      System.out.println("Esto es la primera prueba de control de versiones");// TODO code application logic here
+     // System.out.println("hola mundo");
+      
+      // TODO code application logic here
+    int area_triangulo;
+    int base = 6;
+    int altura = 3;
+      
+      
+            area_triangulo = (base*altura)/2;
+            System.out.println("area de un triangulo"+area_triangulo);
+            
     }
     
 }
